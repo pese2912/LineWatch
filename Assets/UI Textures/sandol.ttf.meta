@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a061e299834a43e2b04570c858aff28
+timeCreated: 1484286824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SD Charisma-L
+  fontNames:
+  - SD Charisma-L
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VR/RemotePlayerCtrl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/VR/FrameFix.cs" Line="30" Column="3" />
+      <File FileName="Assets/Scripts/VR/ChatMessage.cs" Line="28" Column="12" />
+      <File FileName="Assets/Scripts/VR/GameManager.cs" Line="306" Column="4" />
+      <File FileName="Assets/Scripts/VR/NetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/LobbyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WEB/W_LobbyManager.cs" Line="1" Column="1" />
+      <File FileName="../Downloads/Unconscious/Assets/Scripts/AI_Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/PlayerMoveCtrl.cs" Line="109" Column="17" />
+      <File FileName="Assets/Scripts/VR/RemotePlayerAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/BulletCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets/FORGE3D/Sci-Fi Effects/Code/F3DDespawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/FORGE3D/Sci-Fi Effects/Code/F3DParticleScale.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/TransportTCP.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/TransportUDP.cs" Line="1" Column="1" />
+      <File FileName="Assets/FORGE3D/Sci-Fi Effects/Code/F3DRandomize.cs" Line="1" Column="1" />
+      <File FileName="Assets/FORGE3D/Sci-Fi Effects/Code/F3DBeam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/R_PlayerAdapter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/EventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/FollowCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VR/RemotePlayerCtrl.cs" Line="690" Column="62" />
+      <File FileName="Assets/Scripts/VR/PlayerRaycast.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
